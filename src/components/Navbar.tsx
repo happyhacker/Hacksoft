@@ -44,7 +44,7 @@ function Navbar({ isLanding }: NavbarProps) {
       <div className="menu-wrapper center-relative relative">
         <div className="header-logo">
           <RouterLink to="/">
-            <img src={logo} alt="Meelo" />
+            <img src={logo} alt="Hacksoft" />
           </RouterLink>
         </div>
 

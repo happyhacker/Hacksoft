@@ -18,10 +18,6 @@
       "text": "Clients"
     },
     {
-      "to": "news",
-      "text": "News"
-    },
-    {
       "to": "skills",
       "text": "Skills"
     },
@@ -36,10 +32,6 @@
     {
       "to": "about",
       "text": "About"
-    },
-    {
-      "to": "pricing",
-      "text": "Pricing"
     },
     {
       "to": "contact",
