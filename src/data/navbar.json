@@ -14,24 +14,8 @@
       "text": "Portfolio"
     },
     {
-      "to": "clients",
-      "text": "Clients"
-    },
-    {
-      "to": "skills",
-      "text": "Skills"
-    },
-    {
-      "to": "team",
-      "text": "Team"
-    },
-    {
       "to": "milestones",
       "text": "Milestones"
-    },
-    {
-      "to": "about",
-      "text": "About"
     },
     {
       "to": "contact",

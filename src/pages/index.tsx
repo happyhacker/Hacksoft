@@ -5,7 +5,6 @@ import HomeSection from './sections/Home';
 import Services from './sections/Services';
 import Contact from './sections/Contact';
 import Portfolio from './sections/portfolio';
-import Skills from './sections/Skills';
 
 // Components
 import Loader from '../components/Loader';
@@ -13,8 +12,6 @@ import Clients from './sections/Clients';
 import News from './sections/News';
 import Team from './sections/Team';
 import Milestones from './sections/Milestones';
-import About from './sections/About';
-import Pricing from './sections/Pricing';
 
 // -------------------
 
@@ -44,12 +41,8 @@ function Landing() {
         <Services />
         <Portfolio />
         <Clients />
-        <News />
-        <Skills />
         <Team />
         <Milestones />
-        <About />
-        <Pricing />
         <Contact />
       </div>
     </>
