@@ -4,16 +4,16 @@
   "description": "CHECK OUR WORK",
 
   "pargraph1": "We are Hacksoft. \nTechnology consulting firm from Houston.",
-  "pargraph2": "dssdds.",
-  "pargraph3": "sdfasds.",
+  "pargraph2": " ",
+  "pargraph3": " ",
 
   "portfolioItems": [
     {
       "order": 0,
       "className": "p_one_half",
       "info": {
-        "desc": "CUSTOM",
-        "title": "Software Development"
+        "desc": "AGILE",
+        "title": "Training"
       }
     },
     {
@@ -36,8 +36,8 @@
       "order": 3,
       "className": "p_one_fourth",
       "info": {
-        "desc": "AGILE",
-        "title": "Training"
+        "desc": "CUSTOM",
+        "title": "Software Development"
       }
     }
   ]
