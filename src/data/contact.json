@@ -12,22 +12,15 @@
     {
       "title": "WEB",
       "link": {
-        "to": "https://cocobasic.com",
-        "text": "www.cocobasic.com"
-      }
-    },
-    {
-      "title": "ADDRESS",
-      "link": {
-        "to": "https://www.google.rs/maps/place/New+York,+NY,+USA/@40.6971494,-74.2598655,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728",
-        "text": "New York, NY, United States"
+        "to": "http://hacksoft.vercel.app",
+        "text": "www.Hacksoft.net"
       }
     },
     {
       "title": "PHONE",
       "link": {
-        "to": "tel:123456789",
-        "text": "+123.456.789"
+        "to": "tel:7132890484",
+        "text": "713-289-0484"
       }
     },
     {

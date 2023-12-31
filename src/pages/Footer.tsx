@@ -23,11 +23,11 @@ function Footer() {
         </div>
 
         <div className="footer-mail">
-          <a href="mailto:hello@site.com">hello@cocobasic.com</a>
+          <a href="mailto:hello@Hacksoft.net">hello@Hacksoft.net</a>
         </div>
 
         <div className="footer-phone">
-          <a href="tel:123456789">+123.456.789</a>
+          <a href="tel:7132890484">713-289-0484</a>
         </div>
 
         <div className="social-holder">
@@ -37,19 +37,9 @@ function Footer() {
           <a href="#">
             <FontAwesomeIcon icon={faFacebookF} />
           </a>
-          <a href="#">
-            <FontAwesomeIcon icon={faBehance} />
-          </a>
-          <a href="#">
-            <FontAwesomeIcon icon={faDribbble} />
-          </a>
-        </div>
+         </div>
 
-        <div className="copyright-holder">
-          © {new Date().getFullYear()} Meelo React Template by{" "}
-          <a href="https://cocobasic.com">CocoBasic</a>
-        </div>
-      </div>
+       </div>
     </footer>
   );
 }
