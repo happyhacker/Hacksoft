@@ -13,31 +13,25 @@
     {
       "order": "II",
       "servTitle": "Code",
-      "desc": "Kindling the energy hidden in matter a mote of dust suspended blues",
+      "desc": "We pride ourselves on our fluency in a multitude of programming languages like Javascript, Java, Python, and C#. Our team’s versatility enables us to tailor solutions that are not just effective, but also cutting-edge and future-proof. Whether it's building robust enterprise applications, or pioneering in the realms of AI and machine learning, our multi-language proficiency ensures that your projects are in the hands of experts who speak the language of innovation. Partner with us, and let's code the future together.",
       "bottomSpace": true
     },
     {
       "order": "III",
-      "servTitle": "Support",
-      "desc": "Extraplanetary how far away equation with pretty stories for little good",
+      "servTitle": "Data Science",
+      "desc": "We are at the forefront of data science innovation, offering comprehensive solutions in database design, analysis, and advanced reporting. Our expertise extends to harnessing the power of AI to unlock insights from data that were previously unimaginable. We specialize in structuring robust databases that are the backbone of any data-driven organization. Our data science proficiency transforms raw data into a valuable asset. Let us help you navigate the data landscape to optimize performance, enhance productivity, and drive growth.",
       "bottomSpace": true
     },
     {
       "order": "IV",
-      "servTitle": "Marketing",
-      "desc": "Realm of the galaxies sed ut spiciatis unde omnis iste natus error",
+      "servTitle": "Fractional CTO",
+      "desc": "Our fractional CTO services provide your business with the strategic leadership and technological expertise you need to thrive. We can guide you through mergers and acquisitions, offering thorough due diligence assistance from experts that have done it many times. We specialize in comprehensive technology department assessments, identifying areas for optimization and innovation. Leveraging our deep understanding of Agile methodologies, we align your company's operations with Agile principles, fostering a culture of flexibility, efficiency, and rapid response to market changes.",
       "bottomSpace": true
     },
     {
       "order": "V",
-      "servTitle": "Social",
-      "desc": "Est sem integer suscipit enim quis dictum feugiat etiam pellentesque",
-      "bottomSpace": true
-    },
-    {
-      "order": "VI",
-      "servTitle": "Trust",
-      "desc": "Donec vel est sem integer suscipit enim quis lorem posuere vestibulum",
+      "servTitle": "Agile Training",
+      "desc": "Our comprehensive training programs are tailored to instill the Agile mindset, equipping your organization with the tools and techniques to enhance productivity, and adapt swiftly to market changes. Our experienced trainers provide hands-on sessions that are interactive and fun.",
       "bottomSpace": true
     }
   ]

@@ -6,21 +6,27 @@
   "members": [
     {
       "className": "direction-left",
-      "name": "Vanessa Michaels",
-      "position": "DEVELOPER",
-      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+      "name": "Larry Hack",
+      "position": "CTO",
+      "desc": "I lead technology teams. I have been in technology for over 30 years, about the time the internet was birthed and before the World Wide Web came along. I grew up in a small family business that manufactured furniture refinishing products. We were one of the top 10 infomercials in 1991 and built our website to sell our products online in 1998. I've worked for and consulted for a variety of companies; manufacturing, software, banking, finance, mortgage, ecommerce, logistics, and medical equipment and I've been on both sides of many mergers & acquisitions. My approach to success: Read voraciously, apply what's learned in small, controlled methods, implement in large scale. Teach others what I learn, learn from others. Lead a balanced life. Be a nice person."
     },
     {
       "className": "direction-right top-100",
-      "name": "Joan Williams",
-      "position": "DESIGNER",
-      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+      "name": "Peter Phillip",
+      "position": "CISO",
+      "desc": "Peter has spent his career living by the servant leadership philosophy and serving clients as a trusted advisor in technology, strategy, and business improvement. In his 25+ years of experience leading organizations in technology solutions, he has served nearly one hundred and fifty clients, from startups to Fortune 10 companies across the energy, healthcare, manufacturing, finance, and consumer industries. In that time, he has developed a breadth and depth of expertise across many different business technologies. His background includes advising and mentoring organizations to utilize technology better. He is highly effective in improving the bottom line by leading companies through the implementation of emerging and established technologies."
     },
     {
       "className": "direction-left top-100",
-      "name": "Elle Raynolds",
-      "position": "DEVELOPER",
-      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+      "name": "Slav Petkovic",
+      "position": "DATA SCIENTIST",
+      "desc": "As a passionate data scientist and AI developer with years of experience, Slav blends data science, artificial intelligence, and business intelligence to create cutting-edge solutions. Skilled in data engineering, data mining, and predictive modeling, he's able to create data-centric applications that yield strategic business insights. Slav is well-trained to leverage scientific method, comprehensive research, and robust organizational skills to analyze and refine complex processes efficiently."
+    },
+    {
+      "className": "direction-right top-100",
+      "name": "Art Inteligencia",
+      "position": "Senior Programmer / Analyst",
+      "desc": "AI has been a very productive recent addition to the team. He has an amazing bredth of knowledge about, well, everything. Art slings code faster than anyone we know and helps out with tracking down bugs and even strategy occasionally."
     }
   ]
 }

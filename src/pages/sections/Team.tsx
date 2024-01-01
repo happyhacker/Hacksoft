@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import member1 from "../../assets/images/team/team_image_01.jpg";
 import member2 from "../../assets/images/team/team_image_02.jpg";
 import member3 from "../../assets/images/team/team_image_03.jpg";
+import member4 from "../../assets/images/team/team_image_04.jpg";
 import dots from "../../assets/images/dots.png";
 
 // Icons
@@ -22,7 +23,7 @@ import teamData from "../../data/team.json";
 // ------------------
 
 function Team() {
-  const images: string[] = [member1, member2, member3];
+  const images: string[] = [member1, member2, member3, member4];
 
   return (
     <section
