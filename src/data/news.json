@@ -5,29 +5,29 @@
   "articles": [
     {
       "to": "/single",
-      "tags": ["Design", "Music"],
+      "tags": ["Technology", "AI"],
       "info": {
-        "title": "How to write rogue mote of dust love",
-        "date": "September 10, 2018",
-        "author": "John Smith"
+        "title": "Navigating the AI Revolution in Technology",
+        "date": "January 28, 2024",
+        "author": "Larry Hack"
       }
     },
     {
       "to": "/single",
-      "tags": ["CSS", "Video"],
+      "tags": ["Data Science", "Strategic"],
       "info": {
-        "title": "Epochs encyclopa galactica stellar",
-        "date": "September 10, 2018",
-        "author": "John Smith"
+        "title": "Can AI Write Your Business Software for You?",
+        "date": "Coming February 15, 2024",
+        "author": "Larry Hack"
       }
     },
     {
       "to": "/single",
-      "tags": ["Music"],
+      "tags": ["Strategy", "AI"],
       "info": {
-        "title": "Connection of paper and web makes",
-        "date": "September 10, 2018",
-        "author": "John Smith"
+        "title": "Using AI for Strategic Planning",
+        "date": "Coming March 1, 2024",
+        "author": "Larry Hack"
       }
     }
   ]

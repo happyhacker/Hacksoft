@@ -42,6 +42,7 @@ function Landing() {
         <Portfolio />
         <Clients />
         <Team />
+        <News />
         <Milestones />
         <Contact />
       </div>
