@@ -24,6 +24,10 @@
     {
       "to": "contact",
       "text": "Contact"
+    },
+    {
+      "to": "news",
+      "text": "News"
     }
   ],
 
