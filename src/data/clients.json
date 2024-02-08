@@ -1,19 +1,19 @@
 {
   "reviews": [
     {
-      "review": "Curabitur cursus mattis ligula a maximus pellentesque in purus malesuada, pharetra eros id, malesuada diam vivamus eu gravida lacus nulla at consectetur quam vestibulum ac arcu sed.",
-      "name": "Jane Williams",
-      "position": "DESIGNER"
+      "review": "I am pleased to share my positive experience with the IT consultancy services provided by Hacksoft. Larry brought valuable expertise to our organization, helping optimize our IT infrastructure and provide tools and recommendations to improve efficiency. Larry communicated technical concepts effectively and maintained a collaborative working environment while he addressed challenges exceeding our expectations with a detailed and valuable report.",
+      "name": "Charlie Mularski",
+      "position": "President & COO, Universal Weather & Aviation, Inc"
     },
     {
-      "review": " Suspendisse enim erat, vehicula sit amet odio eu, congue gravida magna mauris a ex aliquam, ornare tortor sit amet, placerat ante aenean sit amet sem et metus elementum pellentesque.",
-      "name": "John Smith",
-      "position": "GURU"
+      "review": " Larry Hack’s exceptional IT expertise and strategic insight have deeply impacted PMC Group I, LLC contributing to innovation and operational efficiency. His responsiveness and valuable feedback have fostered a culture of excellence, making him an indispensable asset and a great example of professional leadership within our organization.",
+      "name": "Peter Curtis",
+      "position": "Founder|CEO, PMC Group I, LLC"
     },
     {
-      "review": "Vivamus quis ante varius, pretium lectus ut, tempor eros maecenas vitae purus lobortis, pulvinar lorem eu, porta elit suspendisse blandit porta magna, nec scelerisque urna viverra lorem gravida.",
-      "name": "Peter Hall",
-      "position": "CEO"
+      "review": "“Ive known Larry for many years. He is a consummate professional , a great human being, and a leader-doer that inspires others around him. His business and technical acumen are an asset to any entity that wants to be the pace setter in their field.",
+      "name": "Peter White",
+      "position": "CEO, Royal & Ross"
     }
   ]
 }
