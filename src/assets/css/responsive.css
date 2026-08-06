@@ -567,6 +567,10 @@
     font-size: 14px;
     line-height: 125%;
   }
+
+  img.logo-icon {
+    width: 90px;
+  }
 }
 
 @media screen and (max-width: 750px) {
