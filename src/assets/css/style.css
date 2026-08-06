@@ -849,6 +849,8 @@ img.logo-icon {
   top: 50%;
   position: relative;
   transform: translateY(-50%);
+  width: 180px;
+  height: auto;
 }
 
 /* ===================================
