@@ -35,7 +35,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       From: FROM_EMAIL,
       To: TO_EMAIL,
       ReplyTo: email,
-      Subject: `New contact form message: ${subject || "(no subject)"}`,
+      Subject: `Form message from Hacksoft.net: ${subject || "(no subject)"}`,
       TextBody: `Name: ${name}\nEmail: ${email}\nSubject: ${subject || "(no subject)"}\n\nMessage:\n${message}`,
     });
     res.status(200).json({ ok: true });
