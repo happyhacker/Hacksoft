@@ -5,28 +5,28 @@
 
   "stones": [
     {
-      "number": "39g",
-      "text": "Pellentesque tempus nulla mi, ut pharetra massa ultrices lorem"
+      "number": "99.99%",
+      "text": "Uptime of our hosted solutions"
     },
     {
-      "number": "133",
-      "text": "Nulla ac laoreet est, a quis nibh aenean eget auctor velit mollis"
+      "number": "16",
+      "text": "Average deployments per sprint"
     },
     {
-      "number": "0.581",
-      "text": "Quisque tincidunt tempus odio, posuere est mollis hendrerit quis"
+      "number": "86%",
+      "text": "Test coverage"
     },
     {
       "number": "24h",
-      "text": "Maecenas et ante lorem quis pellentesque vulputate nec ac nibh"
+      "text": "Monitoring of our services"
     },
     {
-      "number": "47 - 52",
-      "text": "Fusce mollis ultricies massa a nec efficit tellus in ultrices tempus"
+      "number": "47,292,572",
+      "text": "Average input tokens consumed monthly"
     },
     {
-      "number": "23k",
-      "text": "Vestibulum mi mi, facilisis ac a, pulvinar nec dolor mollis cursus"
+      "number": "3,072,127",
+      "text": "Average output tokens consumed monthly"
     }
   ]
 }
