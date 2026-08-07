@@ -83,7 +83,7 @@ function Contact() {
     setServerState({ submitting: true });
     axios({
       method: "post",
-      url: contactData.formspreeEndpoint,
+      url: "/api/contact",
       data: formData,
     })
       .then((r) => {
