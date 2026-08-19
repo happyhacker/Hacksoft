@@ -7,6 +7,9 @@ import axios from "axios";
 import contactData from "../../data/contact.json";
 import { markdownToHTML } from "../../utils/converter";
 
+// Images
+import dots from "../../assets/images/dots.png";
+
 // ----------------
 
 type formDataType = {
@@ -95,7 +98,11 @@ function Contact() {
   };
 
   return (
-    <section id="contact" className="section">
+    <section
+      id="contact"
+      className="section"
+      style={{ backgroundImage: `url(${dots})` }}
+    >
       <div className="section-wrapper block content-1170 center-relative">
         <div className="page-title-holder">
           <p className="up-title-text">{contactData.id}</p>

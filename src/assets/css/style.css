@@ -175,7 +175,7 @@ p.up-title-text {
   color: #dc6041;
   line-height: 100%;
   margin-bottom: 0;
-  height: 58px;
+  height: 68px;
   overflow: hidden;
 }
 
@@ -231,11 +231,11 @@ p.page-description {
 .section h2.entry-title {
   font-family: "Roboto", sans-serif;
   font-size: 30px;
-  line-height: 150%;
+  line-height: 125%;
   font-weight: 300;
   word-break: break-word;
   color: #264549;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
   padding: 0;
 }
 
@@ -837,7 +837,7 @@ body .sm-clean li.current_page_item > a {
 
 img.dots {
   position: absolute;
-  top: -240px;
+  top: -200px;
   left: calc(50% + 105px);
   z-index: -1;
 }
@@ -898,7 +898,7 @@ img.logo-icon {
 #portfolio {
   /* background-image: url(images/dots.png); */
   background-repeat: no-repeat;
-  background-position: calc(50% + 430px) 0;
+  background-position: calc(50% + 430px) 40px;
 }
 
 #portfolio-wrapper {
@@ -1132,6 +1132,11 @@ body .site-wrapper .more-posts-portfolio-loading {
     7. News Section CSS
 ====================================== */
 
+#news {
+  background-repeat: no-repeat;
+  background-position: calc(50% + 430px) 40px;
+}
+
 .blog-holder-scode {
   margin-top: 0;
 }
@@ -1307,7 +1312,7 @@ body .site-wrapper .more-posts-portfolio-loading {
 #team {
   /* background-image: url(images/dots.png); */
   background-repeat: no-repeat;
-  background-position: calc(50% + 430px) 0;
+  background-position: calc(50% + 430px) 40px;
 }
 
 .member {
@@ -1657,6 +1662,11 @@ ul.timeline-holder:before {
 /* ===================================
     13. Contact Section CSS
 ====================================== */
+
+#contact {
+  background-repeat: no-repeat;
+  background-position: calc(50% + 430px) 40px;
+}
 
 .contact-form {
   max-width: 100%;
