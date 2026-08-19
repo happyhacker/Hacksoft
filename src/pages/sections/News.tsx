@@ -5,6 +5,7 @@ import { Link as RouterLink } from 'react-router-dom';
 import img1 from '../../assets/images/news/blog_img_01.jpg';
 import img2 from '../../assets/images/news/blog_img_02.jpg';
 import img3 from '../../assets/images/news/blog_img_03.jpg';
+import dots from '../../assets/images/dots.png';
 
 // Data
 import newsData from '../../data/news.json';
@@ -22,7 +23,11 @@ function News() {
   };
 
   return (
-    <section id="news" className="section">
+    <section
+      id="news"
+      className="section"
+      style={{ backgroundImage: `url(${dots})` }}
+    >
       <div className="section-wrapper block content-1170 center-relative">
         <div className="page-title-holder">
           <p className="up-title-text">{newsData.id}</p>

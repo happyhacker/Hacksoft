@@ -63,7 +63,7 @@ function Portfolio() {
       style={{
         background: `url(${dots})`,
         backgroundRepeat: 'no-repeat',
-        backgroundPosition: 'calc(50% + 430px) 0',
+        backgroundPosition: 'calc(50% + 430px) 40px',
       }}
     >
       <div className="section-wrapper block content-1170 center-relative">
