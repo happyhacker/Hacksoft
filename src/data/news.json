@@ -4,7 +4,7 @@
   "description": "UPDATES",
   "articles": [
     {
-      "to": "/single",
+      "to": "/articles/navigating-ai-revolution-in-technology",
       "tags": ["Technology", "AI"],
       "info": {
         "title": "Navigating the AI Revolution in Technology",
@@ -13,20 +13,20 @@
       }
     },
     {
-      "to": "/single",
+      "to": "/articles/can-ai-write-your-business-software",
       "tags": ["Data Science", "Strategic"],
       "info": {
         "title": "Can AI Write Your Business Software for You?",
-        "date": "Coming February 15, 2024",
+        "date": "August 23, 2026",
         "author": "Larry Hack"
       }
     },
     {
-      "to": "/single",
+      "to": "/articles/using-ai-for-strategic-planning",
       "tags": ["Strategy", "AI"],
       "info": {
         "title": "Using AI for Strategic Planning",
-        "date": "Coming March 1, 2024",
+        "date": "Coming August 26, 2026",
         "author": "Larry Hack"
       }
     }
