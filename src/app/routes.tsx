@@ -1,7 +1,7 @@
 // Pages and Components
 import Landing from '../pages/';
 import Navbar from '../components/Navbar';
-import Single from '../pages/blog/Single';
+import Article from '../pages/blog/Article';
 import Footer from '../pages/Footer';
 import Blog from '../pages/blog/Blog';
 
@@ -45,7 +45,14 @@ const routes: RoutesType[] = [
   },
   {
     path: '/single',
-    element: renderWithNav(<Single />, false),
+    element: renderWithNav(
+      <Article slug="navigating-ai-revolution-in-technology" />,
+      false
+    ),
+  },
+  {
+    path: '/articles/:slug',
+    element: renderWithNav(<Article />, false),
   },
   {
     path: '/blog',
