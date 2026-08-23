@@ -2027,6 +2027,11 @@ body.blog {
   color: #000;
 }
 
+.single .entry-content p,
+.single .entry-content blockquote {
+  margin-bottom: 20px;
+}
+
 .single .nav-links {
   padding: 60px 0;
   position: relative;

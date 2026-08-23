@@ -9,7 +9,7 @@ import 'swiper/css/pagination';
 import { useNavigate, useParams } from 'react-router-dom';
 
 // Data
-import { articles } from './articles-data';
+import { articles } from './articles';
 
 // ---------------
 
