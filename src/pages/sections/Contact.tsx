@@ -17,12 +17,14 @@ type formDataType = {
   "your-email": string;
   "your-subject": string;
   "your-message": string;
+  "your-website": string;
 };
 const initialFormData = {
   "your-name": "",
   "your-email": "",
   "your-subject": "",
   "your-message": "",
+  "your-website": "",
 };
 
 // to handle sending form message
@@ -40,6 +42,7 @@ function Contact() {
     submitting: false,
     status: null,
   });
+  const [formLoadedAt] = useState(() => Date.now());
 
   /**
    * Change {formData} variable when user input data
@@ -87,7 +90,7 @@ function Contact() {
     axios({
       method: "post",
       url: "/api/contact",
-      data: formData,
+      data: { ...formData, "form-loaded-at": formLoadedAt },
     })
       .then((r) => {
         handleServerResponse(true, "Message Has Been Send");
@@ -138,6 +141,25 @@ function Contact() {
           <div className="one_half last">
             <div className="contact-form">
               <form action="#" method="post" onSubmit={handleSubmit}>
+                <div
+                  aria-hidden="true"
+                  style={{
+                    position: "absolute",
+                    left: "-9999px",
+                    width: "1px",
+                    height: "1px",
+                    overflow: "hidden",
+                  }}
+                >
+                  <input
+                    type="text"
+                    name="your-website"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={formData["your-website"]}
+                    onChange={handleDataChange}
+                  />
+                </div>
                 <p>
                   <input
                     id="name"
