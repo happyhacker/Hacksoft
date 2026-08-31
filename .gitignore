@@ -6,6 +6,9 @@
 # $ git config --global mergetool.keepBackup false
 *.orig
 
+#claude
+.claude
+
 # Created by git when using merge tools for conflicts
 *.BACKUP.*
 *.BASE.*
@@ -260,4 +263,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,react,node,vercel,git,nextjs.claude/
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,react,node,vercel,git,nextjs
