@@ -93,7 +93,7 @@ function Contact() {
       data: { ...formData, "form-loaded-at": formLoadedAt },
     })
       .then((r) => {
-        handleServerResponse(true, "Message Has Been Send");
+        handleServerResponse(true, "Message Has Been Sent");
       })
       .catch((r) => {
         handleServerResponse(false, "Error occuars while sending");
