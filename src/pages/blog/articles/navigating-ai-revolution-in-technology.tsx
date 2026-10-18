@@ -4,8 +4,8 @@ import { Article } from './types';
 const article: Article = {
   slug: 'navigating-ai-revolution-in-technology',
   image,
-  tags: ['Technology', 'AI'],
-  title: 'Navigating the AI Revolution in Technology',
+  tags: ['AI', 'Leadership'],
+  title: "Navigating the AI Revolution: A Technology Leader's Perspective",
   date: 'January 28, 2024',
   author: 'Larry Hack',
   content: (

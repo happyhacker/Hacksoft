@@ -4,7 +4,7 @@ import { Article } from './types';
 const article: Article = {
   slug: 'can-ai-write-your-business-software',
   image,
-  tags: ['Data Science', 'Strategic'],
+  tags: ['AI', 'Software Strategy'],
   title: 'Can AI Write Your Business Software for You?',
   date: 'August 23, 2026',
   author: 'Larry Hack',
