@@ -1,19 +1,26 @@
 {
   "id": "06",
   "title": "CONTACT",
-  "description": "STAY IN TOUCH",
+  "description": "LET'S TALK",
 
   "paragrapgs": [
-    "Let us know how we can help!",
-    "Serving our clients since 1985."
+    "Tell us about your technology challenge, and we'll get back to you promptly.",
+    "Houston-based, working with clients anywhere."
   ],
 
   "contactInfo": [
     {
       "title": "WEB",
       "link": {
-        "to": "http://hacksoft.vercel.app",
+        "to": "https://www.hacksoft.net",
         "text": "www.Hacksoft.net"
+      }
+    },
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:hello@Hacksoft.net",
+        "text": "hello@Hacksoft.net"
       }
     },
     {
@@ -25,7 +32,7 @@
     },
     {
       "title": "HOURS",
-      "value": "9:00 am – 6:00 pm"
+      "value": "Monday to Friday, 9:00 am to 6:00 pm Central"
     }
   ]
 }
