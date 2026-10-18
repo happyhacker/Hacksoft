@@ -950,6 +950,11 @@ img.logo-icon {
   display: block;
 }
 
+.grid-item.p_one_half img {
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+}
+
 .grid-item .entry-holder {
   text-align: center;
   background-color: #fff;
