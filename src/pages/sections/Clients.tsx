@@ -50,7 +50,9 @@ function Clients() {
                   key={'clients-slide-' + i}
                 >
                   <p className="text-slide-content">{reviewer.review}</p>
-                  <img className="text-slide-img" src={images[i]} alt="" />
+                  {images[i] && (
+                    <img className="text-slide-img" src={images[i]} alt="" />
+                  )}
                   <div className="text-slide-info">
                     <p className="text-slide-name">{reviewer.name}</p>
                     <p className="text-slide-position">{reviewer.position}</p>
