@@ -2,12 +2,19 @@ function PortfolioItem6() {
   return (
     <div className="portfolio-content">
       <div className="two_third">
-        <h1>IT Infrastructure Review for Universal Weather &amp; Aviation</h1>
+        <h1>IT Department Assessment for Universal Weather &amp; Aviation</h1>
         <p>
-          Universal Weather &amp; Aviation engaged Hacksoft to assess its IT
-          infrastructure. I evaluated the environment, identified where
-          efficiency could improve, and delivered a detailed report with tools
-          and recommendations the team could act on.
+          Universal Weather &amp; Aviation engaged Hacksoft to assess its
+          entire IT department. I interviewed executives, product, and
+          delivery leaders, reviewed the technology roadmap, backlog, org
+          chart, application portfolio, and network architecture, and
+          evaluated Agile maturity, team structure, platform and data
+          architecture, security, and infrastructure. My report delivered
+          prioritized recommendations: executive-level Agile adoption,
+          cross-functional teams, reducing complexity by standardizing on
+          fewer and newer technologies, a staffing plan for building a new
+          platform while supporting the legacy one, and a measured first step
+          into the cloud.
         </p>
       </div>
 
@@ -15,7 +22,7 @@ function PortfolioItem6() {
         <br />
         <div className="info-code">
           <p className="info-code-title">PROJECT</p>
-          <p className="info-code-content">IT infrastructure assessment</p>
+          <p className="info-code-content">IT department assessment</p>
         </div>
         <div className="info-code">
           <p className="info-code-title">CLIENT</p>
