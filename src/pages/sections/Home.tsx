@@ -47,10 +47,10 @@ function Home() {
           to={"contact"}
           offset={-77}
         >
-          CONTACT US
+          START A CONVERSATION
         </ScrollLink>
         <div className="home-full-width-background">
-          <img className="logo-icon" src={iconLogo} alt="Meelo Icon" />
+          <img className="logo-icon" src={iconLogo} alt="Hacksoft" />
         </div>
       </div>
     </section>
