@@ -1,37 +1,31 @@
 {
   "id": "01",
   "title": "SERVICES",
-  "description": "Welcome to Hacksoft, your premier destination for innovative technology solutions and expert guidance in the realm of information technology. As a leading consulting firm, we specialize in a wide array of services tailored to meet the dynamic needs of businesses in today's digital landscape. From fractional CTO roles to Agile consulting, our team brings a wealth of experience and cutting-edge strategies to elevate your software development, technology team building, and overall IT operations. At Hacksoft, we pride ourselves on our ability to deliver bespoke, efficient, and scalable solutions, ensuring that every aspect of your technology infrastructure not only meets but exceeds the highest standards of excellence. Whether you're a startup in need of strategic direction or an established enterprise seeking to optimize your technological capabilities, our comprehensive consulting services are designed to foster innovation, efficiency, and success in all your IT endeavors.",
+  "description": "Hacksoft provides fractional CTO leadership and the technical services behind it. We step in as your technology executive, assess what you have, set direction, build the team, and stay until it runs without us. Whether you're a startup that needs its first technology leader or an established company facing growth, a deal, or a turnaround, you get senior judgment at a fraction of the cost of a full-time hire.",
 
   "servicesBoxes": [
     {
       "order": "I",
-      "servTitle": "Design",
-      "desc": "At Hacksoft, we transform your digital dreams into reality with cutting-edge web design. Our team specializes in creating visually stunning and highly functional websites that capture your brand's essence and engage your audience. With our expertise in user experience (UX) and user interface (UI) design, we ensure seamless navigation and a responsive design that looks great on all devices. From innovative layouts to dynamic content, our tailor-made solutions are crafted to enhance your online presence. Partner with us to make your website not just a platform, but a journey that captivates and converts visitors into loyal customers.",
+      "servTitle": "Fractional CTO",
+      "desc": "Part-time executive leadership for your technology organization. We set technology strategy, align it to your business plan, and guide budget and vendor decisions. We assess your team, architecture, and processes, then build the roadmap. For mergers and acquisitions, we provide technology due diligence and integration planning, backed by experience on both the buy and sell sides.",
       "bottomSpace": true
     },
     {
       "order": "II",
-      "servTitle": "Code",
-      "desc": "We pride ourselves on our fluency in a multitude of programming languages like Javascript, Java, Python, and C#. Our team’s versatility enables us to tailor solutions that are not just effective, but also cutting-edge and future-proof. Whether it's building robust enterprise applications, or pioneering in the realms of AI and machine learning, our multi-language proficiency ensures that your projects are in the hands of experts who speak the language of innovation. Partner with us, and let's code the future together.",
+      "servTitle": "Data & AI",
+      "desc": "Database design, analytics, and reporting, plus practical AI adoption. We help you structure data you can trust, then apply AI where it pays off: automating workflows, surfacing insight, and informing decisions. That includes AI strategy for executive teams and boards.",
       "bottomSpace": true
     },
     {
       "order": "III",
-      "servTitle": "Data Science",
-      "desc": "We are at the forefront of data science innovation, offering comprehensive solutions in database design, analysis, and advanced reporting. Our expertise extends to harnessing the power of AI to unlock insights from data that were previously unimaginable. We specialize in structuring robust databases that are the backbone of any data-driven organization. Our data science proficiency transforms raw data into a valuable asset. Let us help you navigate the data landscape to optimize performance, enhance productivity, and drive growth.",
+      "servTitle": "Software Engineering",
+      "desc": "Custom software built to last, from enterprise applications and integrations to customer-facing websites and apps with clear, responsive UX. Our depth in .NET, Azure, and SQL Server, along with JavaScript, Java, and Python, also covers AI-enabled tools. We write production code, and we review architecture and code quality for teams that already have developers.",
       "bottomSpace": true
     },
     {
       "order": "IV",
-      "servTitle": "Fractional CTO",
-      "desc": "Our fractional CTO services provide your business with the strategic leadership and technological expertise you need to thrive. We can guide you through mergers and acquisitions, offering thorough due diligence assistance from experts that have done it many times. We specialize in comprehensive technology department assessments, identifying areas for optimization and innovation. Leveraging our deep understanding of Agile methodologies, we align your company's operations with Agile principles, fostering a culture of flexibility, efficiency, and rapid response to market changes.",
-      "bottomSpace": true
-    },
-    {
-      "order": "V",
-      "servTitle": "Agile Training",
-      "desc": "Our comprehensive training programs are tailored to instill the Agile mindset, equipping your organization with the tools and techniques to enhance productivity, and adapt swiftly to market changes. Our experienced trainers provide hands-on sessions that are interactive and fun.",
+      "servTitle": "Agile & Delivery Coaching",
+      "desc": "Hands-on training and coaching that improves how your teams plan, ship, and respond to change. Led by certified practitioners (PMP, ACP, Certified Scrum Professional), with working sessions built around your actual projects.",
       "bottomSpace": true
     }
   ]

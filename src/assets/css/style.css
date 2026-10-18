@@ -842,6 +842,11 @@ img.dots {
   z-index: -1;
 }
 
+/* Keep hero text clear of the dots, which start at 50% + 105px */
+#home .content-wrapper {
+  max-width: calc(50% + 60px);
+}
+
 img.logo-icon {
   margin-left: auto;
   margin-right: auto;
@@ -948,6 +953,11 @@ img.logo-icon {
   width: 100% !important;
   height: auto;
   display: block;
+}
+
+.grid-item.p_one_half img {
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
 }
 
 .grid-item .entry-holder {
@@ -2223,6 +2233,12 @@ body .social a:hover {
 
 .social-holder a:last-of-type {
   margin: 0;
+}
+
+.social-holder .social-label {
+  font-size: 16px;
+  margin-left: 8px;
+  vertical-align: middle;
 }
 
 .footer a {

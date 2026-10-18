@@ -1,32 +1,23 @@
 {
   "id": "04",
-  "title": "NEWS",
-  "description": "UPDATES",
+  "title": "INSIGHTS",
+  "description": "FROM THE CTO'S DESK",
   "articles": [
     {
       "to": "/articles/navigating-ai-revolution-in-technology",
-      "tags": ["Technology", "AI"],
+      "tags": ["AI", "Leadership"],
       "info": {
-        "title": "Navigating the AI Revolution in Technology",
+        "title": "Navigating the AI Revolution: A Technology Leader's Perspective",
         "date": "January 28, 2024",
         "author": "Larry Hack"
       }
     },
     {
       "to": "/articles/can-ai-write-your-business-software",
-      "tags": ["Data Science", "Strategic"],
+      "tags": ["AI", "Software Strategy"],
       "info": {
         "title": "Can AI Write Your Business Software for You?",
         "date": "August 23, 2026",
-        "author": "Larry Hack"
-      }
-    },
-    {
-      "to": "/articles/using-ai-for-strategic-planning",
-      "tags": ["Strategy", "AI"],
-      "info": {
-        "title": "Using AI for Strategic Planning",
-        "date": "Coming August 26, 2026",
         "author": "Larry Hack"
       }
     }

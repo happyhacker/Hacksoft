@@ -93,10 +93,16 @@ function Contact() {
       data: { ...formData, "form-loaded-at": formLoadedAt },
     })
       .then((r) => {
-        handleServerResponse(true, "Message Has Been Sent");
+        handleServerResponse(
+          true,
+          "Thanks, your message was sent. We'll be in touch shortly."
+        );
       })
       .catch((r) => {
-        handleServerResponse(false, "Error occuars while sending");
+        handleServerResponse(
+          false,
+          "Something went wrong. Please email hello@Hacksoft.net or call 713-289-0484."
+        );
       });
   };
 
@@ -165,7 +171,7 @@ function Contact() {
                     id="name"
                     type="text"
                     name="your-name"
-                    placeholder="NAME"
+                    placeholder="YOUR NAME"
                     required
                     value={formData["your-name"]}
                     onChange={handleDataChange}
@@ -176,7 +182,7 @@ function Contact() {
                     id="contact-email"
                     type="email"
                     name="your-email"
-                    placeholder="EMAIL"
+                    placeholder="YOUR EMAIL"
                     pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
                     required
                     value={formData["your-email"]}
@@ -197,19 +203,19 @@ function Contact() {
                   <textarea
                     id="message"
                     name="your-message"
-                    placeholder="MESSAGE"
+                    placeholder="HOW CAN WE HELP?"
                     required
                     value={formData["your-message"]}
                     onChange={handleDataChange}
                   ></textarea>
                 </p>
                 <p className="contact-submit-holder">
-                  <input type="submit" value="SEND" />
+                  <input type="submit" value="SEND MESSAGE" />
                 </p>
                 {(serverState.submitting || serverState.status?.msg) && (
                   <p className="respond-message">
                     {serverState.submitting
-                      ? "Sending message"
+                      ? "Sending..."
                       : serverState.status
                       ? serverState.status?.msg
                       : ""}

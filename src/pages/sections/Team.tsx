@@ -1,21 +1,9 @@
-// UI Components
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 // Images
 import member1 from "../../assets/images/team/team_image_01.jpg";
 import member2 from "../../assets/images/team/team_image_02.jpg";
 import member3 from "../../assets/images/team/team_image_03.jpg";
 import member4 from "../../assets/images/team/team_image_04.jpg";
 import dots from "../../assets/images/dots.png";
-
-// Icons
-import {
-  faFacebookF,
-  faTwitter,
-  faInstagram,
-  faVimeo,
-  faBehance,
-} from "@fortawesome/free-brands-svg-icons";
 
 // Data
 import teamData from "../../data/team.json";
@@ -53,33 +41,6 @@ function Team() {
                   <p className="member-postition">{member.position}</p>
                   <div className="member-content">
                     <p>{member.desc}</p>
-                    <div className="member-social-holder">
-                      <div className="social">
-                        <a href="#">
-                          <FontAwesomeIcon icon={faFacebookF} />
-                        </a>
-                      </div>
-                      <div className="social">
-                        <a href="#">
-                          <FontAwesomeIcon icon={faTwitter} />
-                        </a>
-                      </div>
-                      <div className="social">
-                        <a href="#">
-                          <FontAwesomeIcon icon={faInstagram} />
-                        </a>
-                      </div>
-                      <div className="social">
-                        <a href="#">
-                          <FontAwesomeIcon icon={faVimeo} />
-                        </a>
-                      </div>
-                      <div className="social">
-                        <a href="#">
-                          <FontAwesomeIcon icon={faBehance} />
-                        </a>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>

@@ -1,32 +1,32 @@
 {
   "id": "03",
   "title": "TEAM",
-  "description": "MEET US",
+  "description": "WHO YOU'LL WORK WITH",
 
   "members": [
     {
       "className": "direction-left",
       "name": "Larry Hack",
-      "position": "CTO",
-      "desc": "I lead technology teams. I have been in technology for over 30 years, about the time the internet was birthed and before the World Wide Web came along. I grew up in a small family business that manufactured furniture refinishing products. We were one of the top 10 infomercials in 1991 and built our website to sell our products online in 1998. I've worked for and consulted for a variety of companies; manufacturing, software, banking, finance, mortgage, ecommerce, logistics, and medical equipment and I've been on both sides of many mergers & acquisitions. My approach to success: Read voraciously, apply what's learned in small, controlled methods, implement in large scale. Teach others what I learn, learn from others. Lead a balanced life. Be a nice person."
+      "position": "Founder & Fractional CTO",
+      "desc": "I'm a technology executive with 30+ years of experience as CIO, CTO, and SVP across retail, ecommerce, financial services, mortgage, and logistics. Most recently I led a 172-person IT organization across 14 countries at PriceSmart. Before that, I led technology through two exits: The Home Depot's $195M acquisition of Blinds.com and the 2023 sale of CPAP.com. I grew up in a family business that sold furniture refinishing products, made the top 10 infomercials in 1991, and went online in 1998, so I learned early that technology has to serve the business. I'm a PMP, Agile Certified Practitioner, and Certified Scrum Professional. My approach: keep learning, test ideas in small steps, scale what works, teach what I learn, and be a good person to work with."
     },
     {
       "className": "direction-right top-100",
       "name": "Peter Phillip",
       "position": "CISO",
-      "desc": "Peter has spent his career living by the servant leadership philosophy and serving clients as a trusted advisor in technology, strategy, and business improvement. In his 25+ years of experience leading organizations in technology solutions, he has served nearly one hundred and fifty clients, from startups to Fortune 10 companies across the energy, healthcare, manufacturing, finance, and consumer industries. In that time, he has developed a breadth and depth of expertise across many different business technologies. His background includes advising and mentoring organizations to utilize technology better. He is highly effective in improving the bottom line by leading companies through the implementation of emerging and established technologies."
+      "desc": "Peter has spent 25+ years as a trusted advisor in technology, strategy, and business improvement, guided by a servant leadership philosophy. He has served nearly 150 clients, from startups to Fortune 10 companies, across the energy, healthcare, manufacturing, finance, and consumer industries, and he consults with many large clients on security. He advises and mentors leadership teams on using technology better and helps companies improve the bottom line by implementing both emerging and established technologies."
     },
     {
       "className": "direction-left top-100",
       "name": "Slav Petkovic",
       "position": "DATA SCIENTIST",
-      "desc": "As a passionate data scientist and AI developer with years of experience, Slav blends data science, artificial intelligence, and business intelligence to create cutting-edge solutions. Skilled in data engineering, data mining, and predictive modeling, he's able to create data-centric applications that yield strategic business insights. Slav is well-trained to leverage scientific method, comprehensive research, and robust organizational skills to analyze and refine complex processes efficiently."
+      "desc": "Slav is a data scientist and AI developer who blends data science, artificial intelligence, and business intelligence into practical solutions. His skills span data engineering, data mining, and predictive modeling, and he builds data-centric applications that deliver strategic business insight. He brings the scientific method, thorough research, and strong organizational discipline to analyzing and refining complex processes."
     },
     {
       "className": "direction-right top-100",
-      "name": "Art Inteligencia (AI)",
-      "position": "Senior Programmer / Analyst",
-      "desc": "AI has been a very productive recent addition to the team. He has an amazing bredth of knowledge about, well, everything. Art slings code faster than anyone we know and helps out with tracking down bugs and even strategy occasionally."
+      "name": "AI-Assisted Delivery",
+      "position": "Engineering Accelerator",
+      "desc": "We use AI throughout our engineering, analysis, and documentation work, so clients get faster prototypes, broader test coverage, and quicker answers. Our senior leaders set the standards for quality, security, and governance, and AI speeds up how we meet them."
     }
   ]
 }

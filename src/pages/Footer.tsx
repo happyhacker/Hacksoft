@@ -5,12 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import logo from "../assets/images/logo.png";
 
 // Icons
-import {
-  faFacebookF,
-  faTwitter,
-  faBehance,
-  faDribbble,
-} from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 // ---------------
 
@@ -19,7 +14,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content center-relative">
         <div className="footer-logo">
-          <img src={logo} alt="Meelo" />
+          <img src={logo} alt="Hacksoft" />
         </div>
 
         <div className="footer-mail">
@@ -31,11 +26,14 @@ function Footer() {
         </div>
 
         <div className="social-holder">
-          <a href="#">
-            <FontAwesomeIcon icon={faTwitter} />
-          </a>
-          <a href="#">
-            <FontAwesomeIcon icon={faFacebookF} />
+          <a
+            href="https://www.linkedin.com/in/larryhack"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LinkedIn"
+          >
+            <FontAwesomeIcon icon={faLinkedin} />
+            <span className="social-label">LinkedIn</span>
           </a>
          </div>
 

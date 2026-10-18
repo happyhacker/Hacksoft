@@ -325,6 +325,10 @@
     display: none !important;
   }
 
+  #home .content-wrapper {
+    max-width: none;
+  }
+
   .grid-item,
   .grid-sizer {
     width: 100% !important;

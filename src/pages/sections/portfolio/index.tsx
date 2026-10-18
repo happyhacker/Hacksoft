@@ -5,6 +5,8 @@ import PortfolioItem1 from './items/PortfolioItem1';
 import PortfolioItem2 from './items/PortfolioItem2';
 import PortfolioItem3 from './items/PortfolioItem3';
 import PortfolioItem4 from './items/PortfolioItem4';
+import PortfolioItem5 from './items/PortfolioItem5';
+import PortfolioItem6 from './items/PortfolioItem6';
 // --> Style images
 import dots from '../../../assets/images/dots.png';
 import closeLeftArrow from '../../../assets/images/close-left-arrow.png';
@@ -22,7 +24,15 @@ import portfolio4 from '../../../assets/images/portfolio/portfolio_item_04.jpg';
 // --------------
 
 function Portfolio() {
-  const images: string[] = [portfolio1, portfolio2, portfolio3, portfolio4];
+  // Tiles 5 and 6 reuse existing images as placeholders until real ones exist
+  const images: string[] = [
+    portfolio1,
+    portfolio2,
+    portfolio3,
+    portfolio4,
+    portfolio1,
+    portfolio3,
+  ];
 
   // Portfolio item to be shown (change rendered different components in item folder)
   const [portfolioItem, setPortfolioItem] = useState<number>(0);
@@ -126,6 +136,10 @@ function Portfolio() {
                   <PortfolioItem3 />
                 ) : portfolioItem === 4 ? (
                   <PortfolioItem4 />
+                ) : portfolioItem === 5 ? (
+                  <PortfolioItem5 />
+                ) : portfolioItem === 6 ? (
+                  <PortfolioItem6 />
                 ) : (
                   <></>
                 )}
