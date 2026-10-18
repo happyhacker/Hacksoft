@@ -1,9 +1,9 @@
 {
   "id": "02",
-  "title": "PORTFOLIO",
-  "description": "CHECK OUR WORK",
+  "title": "EXPERIENCE",
+  "description": "SELECTED WORK",
 
-  "pargraph1": "We are Hacksoft. \nTechnology consulting firm from Houston.",
+  "pargraph1": "Leadership with a track record. \nHouston-based fractional CTO practice.",
   "pargraph2": " ",
   "pargraph3": " ",
 
@@ -12,32 +12,48 @@
       "order": 0,
       "className": "p_one_half",
       "info": {
-        "desc": "AGILE",
-        "title": "Training"
+        "desc": "M&A INTEGRATION",
+        "title": "Home Depot's $195M Acquisition of Blinds.com"
       }
     },
     {
       "order": 1,
       "className": "p_one_half",
       "info": {
-        "desc": "DATA SCIENCE",
-        "title": "Analyse & Reporting"
+        "desc": "EXIT READINESS",
+        "title": "From Fractional CTO to Sale Close at CPAP.com"
       }
     },
     {
       "order": 2,
       "className": "p_one_fourth",
       "info": {
-        "desc": "CREATIVE",
-        "title": "Design"
+        "desc": "AI & DATA",
+        "title": "AI Governance and a Data Platform Across 14 Countries"
       }
     },
     {
       "order": 3,
       "className": "p_one_fourth",
       "info": {
-        "desc": "CUSTOM",
-        "title": "Software Development"
+        "desc": "FRACTIONAL CTO",
+        "title": "Ongoing Technology Leadership for PMC Group"
+      }
+    },
+    {
+      "order": 4,
+      "className": "p_one_fourth",
+      "info": {
+        "desc": "DELIVERY",
+        "title": "Agile and Customer Integrations at Crane Worldwide"
+      }
+    },
+    {
+      "order": 5,
+      "className": "p_one_fourth",
+      "info": {
+        "desc": "ASSESSMENT",
+        "title": "IT Infrastructure Review for Universal Weather & Aviation"
       }
     }
   ]

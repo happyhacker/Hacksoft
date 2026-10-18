@@ -1,52 +1,16 @@
-// Swiper Slider
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Pagination } from 'swiper';
-import 'swiper/css';
-import 'swiper/css/pagination';
-
-// Images
-import item1 from '../../../../assets/images/portfolio/items/item1/slider_01.jpg';
-import item2 from '../../../../assets/images/portfolio/items/item1/slider_03.jpg';
-import item3 from '../../../../assets/images/portfolio/items/item1/slider_04.jpg';
-
-// -------------------
-
 function PortfolioItem1() {
   return (
     <div className="portfolio-content">
-      <div className="image-slider-wrapper relative">
-        <Swiper
-          pagination={{ clickable: true }}
-          loop={true}
-          modules={[Pagination]}
-          className="portfolio-item-slider"
-        >
-          <SwiperSlide>
-            <img src={item1} alt="portfolio item 1" />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img src={item2} alt="portfolio item 2" />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img src={item3} alt="portfolio item 3" />
-          </SwiperSlide>
-        </Swiper>
-      </div>
-
       <div className="two_third">
-        <h1>Living Room</h1>
-        <p className="small-text">
-          Bearable only through love hydrogen atoms bits of moving fluff culture
-          shores of the cosmic ocean roxysm of global death rich in heavy atoms
-          with miles away from sun.
-        </p>
+        <h1>Home Depot's $195M Acquisition of Blinds.com</h1>
         <p>
-          Bearable only through love hydrogen atoms bits of moving fluff culture
-          shores of the cosmic ocean paroxysm of global death rich in heavy
-          atoms with pretty stories for which there’s little good evidence
-          something incredible is waiting to be known not a sunrise but a
-          galaxyrise shores of the cosmic ocean inconspicuous motes of rock.
-          <br />
+          I led technology at Blinds.com as it grew from a small developer
+          team into a $250M ecommerce retailer with 44 technology staff. When
+          The Home Depot acquired the company for $195M, I led IT due
+          diligence and integration, moving Home Depot's custom blinds
+          business onto our Autobahn platform within 90 days. Custom blinds
+          sales grew 10x. Autobahn, a cloud-native platform on AWS, carried
+          $250M in annual sales at 99.99% uptime.
         </p>
       </div>
 
@@ -54,19 +18,19 @@ function PortfolioItem1() {
         <br />
         <div className="info-code">
           <p className="info-code-title">PROJECT</p>
-          <p className="info-code-content">Corporate Branding</p>
+          <p className="info-code-content">IT due diligence and integration</p>
         </div>
         <div className="info-code">
           <p className="info-code-title">CLIENT</p>
-          <p className="info-code-content">Envato Studio</p>
+          <p className="info-code-content">Blinds.com / GCC (acquired by The Home Depot)</p>
         </div>
         <div className="info-code">
           <p className="info-code-title">DATE</p>
-          <p className="info-code-content">September 2018</p>
+          <p className="info-code-content">2007 to 2017</p>
         </div>
         <div className="info-code">
-          <p className="info-code-title">DESIGNER</p>
-          <p className="info-code-content">John Petters</p>
+          <p className="info-code-title">ROLE</p>
+          <p className="info-code-content">Chief Information Officer</p>
         </div>
       </div>
 

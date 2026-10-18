@@ -1,38 +1,39 @@
-// Images
-import img1 from '../../../../assets/images/portfolio/items/item2/item_img_03.jpg';
-import img2 from '../../../../assets/images/portfolio/items/item2/item_img_03b.jpg';
-import img3 from '../../../../assets/images/portfolio/items/item2/item_img_03c.jpg';
-
-// -------------------
-
 function PortfolioItem2() {
   return (
     <div className="portfolio-content">
-      <h1 className="center-text">Nice Fonts</h1>
-      <br />
-      <div className="one_half">
-        With a warning label this big, you know they gotta be fun. Bring me the
-        forms I need to fill out to have her taken away. I decline the title of
-        iron cook and accept the lesser title of zinc saucier.
+      <div className="two_third">
+        <h1>From Fractional CTO to Sale Close at CPAP.com</h1>
+        <p>
+          CPAP.com brought me in as a part-time consulting CTO, then recruited
+          me full-time to prepare the company for sale. I architected a new
+          ecommerce platform (beta in March 2021, MVP by July 2021), shipped
+          Apple Pay in one quarter (an estimated $1.8M in annual gross
+          margin), and improved site search in another (an estimated $950K). I
+          led technology due diligence through the close of the 2023 sale.
+        </p>
       </div>
-      <div className="one_half last">
-        You probably haven’t heard of them before they sold out scenester
-        literally readymade. Trust fund Thundercats flexitarian, aesthetic
-        Tumblr banjo freegan semiotics.
+
+      <div className="one_third last">
+        <br />
+        <div className="info-code">
+          <p className="info-code-title">PROJECT</p>
+          <p className="info-code-content">Exit readiness and platform launch</p>
+        </div>
+        <div className="info-code">
+          <p className="info-code-title">CLIENT</p>
+          <p className="info-code-content">CPAP.com</p>
+        </div>
+        <div className="info-code">
+          <p className="info-code-title">DATE</p>
+          <p className="info-code-content">2020 to 2024</p>
+        </div>
+        <div className="info-code">
+          <p className="info-code-title">ROLE</p>
+          <p className="info-code-content">Consulting CTO, then CTO</p>
+        </div>
       </div>
+
       <div className="clear"></div>
-      <br />
-      <div className="margin-0">
-        <img src={img1} alt="" />
-      </div>
-      <div className="one_half margin-0">
-        <img src={img2} alt="" />
-      </div>
-      <div className="one_half last margin-0">
-        <img src={img3} alt="" />
-      </div>
-      <div className="clear"></div>
-      <br />
     </div>
   );
 }
