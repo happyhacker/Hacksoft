@@ -1,32 +1,32 @@
 {
   "id": "05",
-  "title": "METRICS",
-  "description": "OUR NUMBERS",
+  "title": "RESULTS",
+  "description": "BY THE NUMBERS",
 
   "stones": [
     {
-      "number": "99.99%",
-      "text": "Uptime of our hosted solutions"
+      "number": "30+",
+      "text": "Years in technology across retail, ecommerce, finance, and logistics"
     },
     {
-      "number": "16",
-      "text": "Average deployments per sprint"
+      "number": "$195M",
+      "text": "Home Depot acquisition of Blinds.com, integrated in 90 days"
     },
     {
-      "number": "86%",
-      "text": "Test coverage"
+      "number": "$250M",
+      "text": "Annual ecommerce sales carried by a cloud platform running at 99.99% uptime"
     },
     {
-      "number": "24h",
-      "text": "Monitoring of our services"
+      "number": "14",
+      "text": "Countries supported by a 172-person IT organization"
     },
     {
-      "number": "47,292,572",
-      "text": "Average input tokens consumed monthly"
+      "number": "80%",
+      "text": "Reduction in server vulnerabilities (30K to 6K across about 400 servers) in roughly a year"
     },
     {
-      "number": "3,072,127",
-      "text": "Average output tokens consumed monthly"
+      "number": "350",
+      "text": "Employees rolled out on governed generative AI"
     }
   ]
 }
