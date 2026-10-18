@@ -11,7 +11,7 @@
 
     {
       "to": "portfolio",
-      "text": "Portfolio"
+      "text": "Experience"
     },
     {
       "to": "team",
@@ -19,7 +19,7 @@
     },
     {
       "to": "milestones",
-      "text": "Metrics"
+      "text": "Results"
     },
     {
       "to": "contact",
@@ -27,7 +27,7 @@
     },
     {
       "to": "news",
-      "text": "News"
+      "text": "Insights"
     }
   ],
 
