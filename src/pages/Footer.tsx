@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import logo from "../assets/images/logo.png";
 
 // Icons
-import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 // ---------------
 
@@ -32,7 +32,8 @@ function Footer() {
             rel="noopener noreferrer"
             aria-label="LinkedIn"
           >
-            <FontAwesomeIcon icon={faLinkedinIn} />
+            <FontAwesomeIcon icon={faLinkedin} />
+            <span className="social-label">LinkedIn</span>
           </a>
          </div>
 
