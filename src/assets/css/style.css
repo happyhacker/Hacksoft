@@ -2283,10 +2283,13 @@ body .social a:hover {
   line-height: 170%;
   text-align: center;
   width: 100%;
+  /* Stretch every slide to the tallest one and anchor content to the bottom,
+     so shorter quotes sit just above the arrows instead of scrolling out of view */
+  height: auto;
   padding-bottom: 80px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   flex-direction: column;
   /* overflow: hidden; */
 }
