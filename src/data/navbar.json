@@ -18,23 +18,16 @@
       "text": "Team"
     },
     {
+      "to": "news",
+      "text": "Insights"
+    },
+    {
       "to": "milestones",
       "text": "Results"
     },
     {
       "to": "contact",
       "text": "Contact"
-    },
-    {
-      "to": "news",
-      "text": "Insights"
-    }
-  ],
-
-  "internalLinks": [
-    {
-      "to": "blog",
-      "text": "Blog"
     }
   ]
 }

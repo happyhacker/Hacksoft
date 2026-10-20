@@ -3,7 +3,6 @@ import Landing from '../pages/';
 import Navbar from '../components/Navbar';
 import Article from '../pages/blog/Article';
 import Footer from '../pages/Footer';
-import Blog from '../pages/blog/Blog';
 
 // ------------------
 
@@ -53,10 +52,6 @@ const routes: RoutesType[] = [
   {
     path: '/articles/:slug',
     element: renderWithNav(<Article />, false),
-  },
-  {
-    path: '/blog',
-    element: renderWithNav(<Blog />, false),
   },
 ];
 
