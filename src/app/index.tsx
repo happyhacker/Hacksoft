@@ -1,4 +1,5 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 
 // fonts
 import "@fontsource/karla/400.css";
@@ -38,6 +39,7 @@ function App() {
       <Layout>
         <RouterProvider router={router} />
       </Layout>
+      <Analytics />
     </div>
   );
 }
